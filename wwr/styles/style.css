@@ -3,3 +3,96 @@
     margin: 0 auto;
 }
 
+nav a {
+text-align: center;
+color: black;
+text-decoration: none;
+}
+#hero-msg h1 {
+    text-align: center;
+    }
+#hero-msg h4 {
+    text-align: center;
+    }
+.button-box {
+    text-align: center;
+    }
+main section {
+    text-align: center;
+    }
+#background {
+    height: 725px;
+    }
+body {
+    background-color: #e9e3e3; 
+    }
+header {
+    background-color:rgba(77, 90, 68, 0.7);
+    }
+nav a:hover {
+    background-color: rgb(104, 65, 65);
+    color: #e9e3e3;
+    }
+.book {
+    background-color: rgb(75, 143, 96);
+    color: black;
+    text-decoration: none;
+    } 
+.join {
+    background-color: rgb(113, 173, 133);
+    color: black;
+    text-decoration: none;
+    }
+.book:hover {
+    background-color: rgb(58, 211, 134);
+    color: rgb(50, 53, 53);
+    } 
+.join:hover {
+    background-color: rgb(35, 182, 108);
+    color: rgb(51, 59, 57);
+    }
+#background {
+    background-color: rgb(49, 81, 110);
+    }
+.msg {
+    background-color: rgb(59, 75, 55);
+    }
+footer {
+    background-color: rgb(68, 88, 73);
+    color: black;
+    }
+footer a{
+    background-color: #4e4646;
+    color: black;    
+    text-decoration: none;
+        }
+footer a:hover{
+    color: rgb(255, 255, 255);
+    }
+footer p {
+        font-size: 1.2em;
+    }    
+.home-title{
+    color: rgb(0, 0, 0);
+    }
+h4{
+    color: rgb(0, 0, 0);
+    }
+.msg h2{
+    color: rgb(0, 0, 0);
+    }
+.msg p {
+    color: rgb(0, 0, 0);
+    }
+.icon {
+        width: 80px;
+    }
+.logo {
+        width: 80px;
+    }
+#hero-img {
+    width: 100%;
+}
+footer p a:hover {
+    text-decoration: underline;
+}
